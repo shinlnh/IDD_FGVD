@@ -1,0 +1,20 @@
+# Dataset root directory relative to yolov5/
+path: ../Dataset  # <-- thư mục gốc chứa images/ và labels/
+
+# Train/val/test image directories (tự động tìm .txt tương ứng trong labels/)
+train: images/train
+val: images/val
+test: images/test
+
+# Number of classes
+nc: 7
+
+# Class names (coarse-grained)
+names:
+  0: motorcycle
+  1: car
+  2: scooter
+  3: autorickshaw
+  4: truck
+  5: mini-bus
+  6: bus
