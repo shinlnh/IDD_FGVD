@@ -1,4 +1,4 @@
-# OBJECT DETECTION TRACKING FOOTBALL 
+# OBJECT DETECTION IDD_FGVD
 
 # LIBRARY
     Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
